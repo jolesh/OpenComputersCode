@@ -6,7 +6,7 @@ local stack = 2
 
 function brick()
     block = block + 1
-    if(block == 64) then
+    if(block%64 == 0) then
         stack = stack + 1
         robot.select(stack)
     end
