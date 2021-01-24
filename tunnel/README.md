@@ -18,3 +18,6 @@ It needs a pickaxe equipped, the special block in the first inventory slot and t
 
 Conduit option:
 Set conduit in the script to true and put conduits in slot 2 and 3. The put wall blocks in slot 4, 5, ...
+
+Pumpkin option:
+Will set every Xth row jack o'lanterns in the wall, standard is 5. Configurable in the script
