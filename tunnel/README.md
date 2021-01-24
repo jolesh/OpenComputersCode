@@ -15,3 +15,6 @@ It changes the wall blocks and places a "special" block as the middle ground blo
 
 The roboter needs an inventory upgrade and the normal hardware.
 It needs a pickaxe equipped, the special block in the first inventory slot and then whole stacks of wall material.
+
+Conduit option:
+Set conduit in the script to true and put conduits in slot 2 and 3. The put wall blocks in slot 4, 5, ...
